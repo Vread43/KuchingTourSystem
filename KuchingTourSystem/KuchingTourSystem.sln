@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "KuchingTourSystem", "KuchingTourSystem.vbproj", "{0260B76E-DB16-4BFE-855B-D5E83CF605AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0260B76E-DB16-4BFE-855B-D5E83CF605AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0260B76E-DB16-4BFE-855B-D5E83CF605AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0260B76E-DB16-4BFE-855B-D5E83CF605AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0260B76E-DB16-4BFE-855B-D5E83CF605AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC16FC79-1C00-4242-8CAB-B39C907009B6}
+	EndGlobalSection
+EndGlobal

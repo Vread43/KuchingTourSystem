@@ -1,0 +1,96 @@
+
+===================================================  
+---------------------------RECEIPT--------------------------- 
+===================================================   
+FULL NAME: DAIYAN TRISHA
+SELECTED PACKAGES : PACKAGE : C ,  KUCHING BEACH LIFE
+NUMBER OF KIDS : 0
+NUMBER OF ADULTS : 2
+NUMBER OF SENIORS : 0
+PERSONAL INSURANCE(ADD ON) : PERSONAL INSURANCE
+OTHER ADD ON : LEARN HOW TO SURFING
+**TOTAL PRICE IS RM3515
+
+===================================================  
+---------------------------RECEIPT--------------------------- 
+===================================================   
+FULL NAME: ISMAIL SHAH
+SELECTED PACKAGES : PACKAGE : B ,  KUCHING WILD LIFE
+NUMBER OF KIDS : 2
+NUMBER OF ADULTS : 3
+NUMBER OF SENIORS : 0
+PERSONAL INSURANCE(ADD ON) : NONE
+OTHER ADD ON : PHOTOS WITH ANIMALS
+**TOTAL PRICE IS RM6120
+
+===================================================  
+---------------------------RECEIPT--------------------------- 
+===================================================   
+FULL NAME: JUSTIN BIEBER
+SELECTED PACKAGES : PACKAGE : A , SARAWAK ALL TIME
+NUMBER OF KIDS : 0
+NUMBER OF ADULTS : 1
+NUMBER OF SENIORS : 2
+PERSONAL INSURANCE(ADD ON) : NONE
+OTHER ADD ON : VISIT SARAWAK MUSEUM
+**TOTAL PRICE IS RM4200
+
+===================================================  
+---------------------------RECEIPT--------------------------- 
+===================================================   
+FULL NAME: ADAM RIZQ
+SELECTED PACKAGES : PACKAGE : A , SARAWAK ALL TIME
+NUMBER OF KIDS : 0
+NUMBER OF ADULTS : 1
+NUMBER OF SENIORS : 2
+PERSONAL INSURANCE(ADD ON) : NONE
+OTHER ADD ON : DINNER POTLUCK
+**TOTAL PRICE IS RM4195
+
+===================================================  
+---------------------------RECEIPT--------------------------- 
+===================================================   
+FULL NAME: NUR LEIA
+SELECTED PACKAGES : PACKAGE : A , SARAWAK ALL TIME
+NUMBER OF KIDS : 0
+NUMBER OF ADULTS : 2
+NUMBER OF SENIORS : 0
+PERSONAL INSURANCE(ADD ON) : NONE
+OTHER ADD ON : HALF - DAY HERITAGE BIKE TOUR IN KUCHING
+**TOTAL PRICE IS RM3150
+
+===================================================  
+---------------------------RECEIPT--------------------------- 
+===================================================   
+FULL NAME: KARIM BENZEMA
+SELECTED PACKAGES : PACKAGE : B ,  KUCHING WILD LIFE
+NUMBER OF KIDS : 1
+NUMBER OF ADULTS : 2
+NUMBER OF SENIORS : 0
+PERSONAL INSURANCE(ADD ON) : NONE
+OTHER ADD ON : FUN FILLED-KAYAKING
+**TOTAL PRICE IS RM3785
+
+===================================================  
+---------------------------RECEIPT--------------------------- 
+===================================================   
+FULL NAME: AHMAD
+SELECTED PACKAGES : PACKAGE : B ,  KUCHING WILD LIFE
+NUMBER OF KIDS : 1
+NUMBER OF ADULTS : 1
+NUMBER OF SENIORS : 0
+PERSONAL INSURANCE(ADD ON) : NONE
+OTHER ADD ON : BIRD FEEDING
+**TOTAL PRICE IS RM2365
+
+===================================================  
+---------------------------RECEIPT--------------------------- 
+===================================================   
+FULL NAME: HILMAN
+SELECTED PACKAGES : PACKAGE : A , SARAWAK ALL TIME
+NUMBER OF KIDS : 1
+NUMBER OF ADULTS : 2
+NUMBER OF SENIORS : 0
+PERSONAL INSURANCE(ADD ON) : PERSONAL INSURANCE
+OTHER ADD ON : HALF - DAY HERITAGE BIKE TOUR IN KUCHING
+**TOTAL PRICE IS RM4200
